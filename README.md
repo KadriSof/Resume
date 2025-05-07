@@ -3,7 +3,7 @@
 Welcome to my resume repository! Here you can find my latest resume.
 
 ## Download
-[Download my resume](Resume.pdf)
+[Download my resume](Mohamed-Sofiene-Kadri-Resume.pdf)
 
 ## Contact
 - Email: ms.kadri.dev@gmail.com
